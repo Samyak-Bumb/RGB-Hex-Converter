@@ -55,4 +55,5 @@ function toHex(){
     else{
         invalid(rgbInput,hexInput);
     }
+
 }
